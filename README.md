@@ -2,6 +2,8 @@
 Aplikasi laravel versi 9 yang digunakan untuk backend atau sebagai penyedia API catatan berisikan satu CRUD sederhana
 
 ## Tools
+- Composer
+- Node Js
 - IDE
 - Browser
 - Xampp
